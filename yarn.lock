@@ -30562,8 +30562,8 @@ __metadata:
   linkType: hard
 
 "linguist-js@npm:^2.5.3":
-  version: 2.5.6
-  resolution: "linguist-js@npm:2.5.6"
+  version: 2.6.0
+  resolution: "linguist-js@npm:2.6.0"
   dependencies:
     binary-extensions: ^2.2.0
     commander: ^9.5.0 <10
@@ -30576,7 +30576,7 @@ __metadata:
   bin:
     linguist: bin/index.js
     linguist-js: bin/index.js
-  checksum: bd1ae9514b4fa365611e571eb7c0cf5b087fc8ab77cdf7aeade2029a327ae3dd9005eb87e4b75770780e06e749c2d9b72f011d0a659705e1a2347b4fe7e28631
+  checksum: ba853d05ea8a77b6cdca8000bf6ef82a3c4ba1d35c9e785ad7c939bedf48ae4dda81364e88bac435ba1579b5add795ae53819b91446f42696b9d3dc92d5d7ff4
   languageName: node
   linkType: hard
 
