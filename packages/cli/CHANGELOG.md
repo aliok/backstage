@@ -1,5 +1,22 @@
 # @backstage/cli
 
+## 0.22.9-next.1
+
+### Patch Changes
+
+- ff45cb559e49: Updated dependency `esbuild` to `^0.18.0`.
+- Updated dependencies
+  - @backstage/catalog-model@1.4.1-next.0
+  - @backstage/cli-common@0.1.12
+  - @backstage/cli-node@0.1.2-next.0
+  - @backstage/config@1.0.8
+  - @backstage/config-loader@1.3.2-next.0
+  - @backstage/errors@1.2.1-next.0
+  - @backstage/eslint-plugin@0.1.3
+  - @backstage/integration@1.5.1-next.0
+  - @backstage/release-manifests@0.0.9
+  - @backstage/types@1.1.0
+
 ## 0.22.9-next.0
 
 ### Patch Changes
